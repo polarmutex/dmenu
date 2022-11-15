@@ -1,7 +1,4 @@
 *.o
-config.h
-patches.h
 dmenu
 stest
-
 .direnv
